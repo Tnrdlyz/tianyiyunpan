@@ -23,7 +23,7 @@
 ### 三、启用 Action
 1. 点击 ***Actions***，再点击 **I understand my workflows, go ahead and enable them**
 
-   ![](http://tu.yaohuo.me/imgs/2020/06/34ca160c972b9927.png)
+   ![](https://i.loli.net/2020/07/27/pyQmdMHrOIz4x2f.png)
 
 2. 点击左侧的 ***Star***
 
